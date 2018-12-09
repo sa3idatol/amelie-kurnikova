@@ -1,0 +1,9 @@
++++
+title = "Preciosas bandas decorativas del alfabeto árabe"
+date = 2012-02-06T23:46:00Z
+updated = 2013-08-06T20:45:25Z
+tags = ["mobiliario y decoración", "Organización del aula"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"></div><div style="text-align: center;"><span style="background-color: #4c1130;"><span style="color: #e06666;">Bismillah ar Rahaman ar Rahim</span></span></div><div style="text-align: center;"><span style="background-color: #4c1130;"><span style="color: #e06666;">Assalamu aleikum wa rahamatullah wa barakatuh</span></span></div><div style="text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Estamos preparando la clase poco a poco ma sha'a Allah...estas bandas quedarán preciosas!</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;">&nbsp;&nbsp; <a href="http://islamicbulletinboards.files.wordpress.com/2010/11/alphabet_borders_roomshot_350_bw_1.jpg?w=455" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="http://islamicbulletinboards.files.wordpress.com/2010/11/alphabet_borders_roomshot_350_bw_1.jpg?w=455" width="386" /></a></div><br />Las encontraréis en <a href="http://islamicbulletinboards.files.wordpress.com/2010/11/arabic-alphabet-strip1.pdf">Islamic Bulletin Boards</a><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-KOcIGjotNco/TuFCDB_-03I/AAAAAAAAAeA/P3kw3hDpdDk/s1600/assalam1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-KOcIGjotNco/TuFCDB_-03I/AAAAAAAAAeA/P3kw3hDpdDk/s1600/assalam1.jpg" /></a></div><br /></div>

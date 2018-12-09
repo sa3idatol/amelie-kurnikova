@@ -1,0 +1,9 @@
++++
+title = "Secuencia del salat en imágenes..."
+date = 2012-08-02T12:13:00Z
+updated = 2013-08-12T23:32:08Z
+tags = ["APRENDIZAJE DE DINN", "P2", "Pilares del Islam", "Aquida"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #a2c4c9; color: #0b5394;">Bismillah ar Rahman ar Rahim</span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #a2c4c9; color: #0b5394;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Mirad qué interesante actividad: imágenes secuenciales del salat con su llave de respuesta para autocorrección:</div><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-xa3bCEY5-Bw/UACrspxnzzI/AAAAAAAAAsw/cb8u2msqY30/s320/salat2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="307" src="http://2.bp.blogspot.com/-xa3bCEY5-Bw/UACrspxnzzI/AAAAAAAAAsw/cb8u2msqY30/s400/salat2.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><br />Del magnífico blog:&nbsp;<a href="http://amuslimchildisborn.blogspot.com.es/search/label/Toddler%2018%20to%2024%20months%20old%3A%20Islamic">A Muslim child is born</a><br /><br /><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #a2c4c9; color: #0b5394;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><br class="Apple-interchange-newline" /><br /><br /></div>

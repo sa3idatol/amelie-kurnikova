@@ -1,0 +1,9 @@
++++
+title = "Loción medicinal de romero"
+date = 2014-09-29T09:02:00Z
+updated = 2014-10-03T16:40:02Z
+tags = ["P5", "material casero", "experimentos", "cuerpo humano", "plantas", "Unidades didacticas", "P4"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #7f6000;"><span style="color: #93c47d;">Bismillah ar Rahman ar Rahim<br />Assalamu aleikum wa rahamatullahi wa barakatuh</span></span></div><br /><div style="text-align: justify;">Este curso estoy dispuesta a hacer más experimentos in sha'a Allah,&nbsp; al menos uno por unidad didáctica. </div><br /><div style="text-align: justify;">Hace ya muchos días que los peques me piden de hacer perfume,&nbsp; y se me ocurrió que,&nbsp; al no disponer de esencias naturales en ese momento,&nbsp; podíamos hacer una loción medicinal muy sencilla y que precisamente trataba sobre el cuerpo humano.&nbsp; Aproveché para explicarles que anteriormente sólo se usaban plantas medicinales y no había medicina moderna. </div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/-QjwqzinqlgM/VCkEEHF2WWI/AAAAAAAAG4w/RI4M4Y6_5Pw/s1600/2014-09-26-14-41-57_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh4.ggpht.com/-QjwqzinqlgM/VCkEEHF2WWI/AAAAAAAAG4w/RI4M4Y6_5Pw/s640/2014-09-26-14-41-57_deco.jpg" height="320" width="320" /></a> </div><br /><div style="text-align: justify;">Hemos usado alcohol de 93° que venden en farmacias,&nbsp; romero en su momento de floración y un frasco de cristal. Con cortar ramas y flores de romero y llenar el frasco,&nbsp; cubriendo después las plantas con el alcohol ya teníamos la preparación finalizada.&nbsp; Ahora nos toca dejarlo macerar unos 15 días y removerlo diariamente.<br /></div></div>

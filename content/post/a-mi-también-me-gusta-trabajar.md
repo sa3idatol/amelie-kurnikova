@@ -1,0 +1,9 @@
++++
+title = "¡¡A mi también me gusta trabajar!!!"
+date = 2012-02-17T19:18:00Z
+updated = 2013-08-10T14:31:23Z
+tags = ["motricidad2", "P2", "uno2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #ead1dc; color: #0c343d;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #ead1dc; color: #0c343d;">Assalamu aleikum wa rahamatullahi wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div style="text-align: justify;">Cuando Yumna está trabajando, el pequeño nos hace imposible un ambiente tranquilo, silencioso y de trabajo. Por eso aprovechamos sus siestas,<br />Ilyas, con 15 meses, ya empieza a interesarse por juegos manipulativos...despega, más que pega, quita y pone los tapones de los rotuladores, encaja piezas, hace algún garabato...Ya no es tan bebe ma sha'a Allah!</div><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-Vmp2aKHqNzs/UgGQBNDcr5I/AAAAAAAAE_c/Uani3u7V7T8/s1600/cats5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="383" src="http://4.bp.blogspot.com/-Vmp2aKHqNzs/UgGQBNDcr5I/AAAAAAAAE_c/Uani3u7V7T8/s400/cats5.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: justify;"><br /></div><div class="separator" style="clear: both; text-align: justify;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/--oBMotINPug/TtlbInYcvkI/AAAAAAAAAZk/XHRrAOEHfHc/s1600/assalam2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/--oBMotINPug/TtlbInYcvkI/AAAAAAAAAZk/XHRrAOEHfHc/s1600/assalam2.png" /></a></div><br /></div>

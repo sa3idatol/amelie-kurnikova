@@ -1,0 +1,9 @@
++++
+title = "Programación de la unidad didáctica 4: Los alimentos"
+date = 2012-11-09T00:49:00Z
+updated = 2013-07-27T00:15:27Z
+tags = ["descargas", "P3", "Unidades didacticas", "Programaciones de aula"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><br /><br /><span style="background-color: #4c1130; color: #93c47d;">Bismillah ar Rahman ar Rahim</span><br /><span style="background-color: #4c1130; color: #93c47d;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span><br /><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/_8c6kxbMw5h4/SSW-ci_ApMI/AAAAAAAABCM/6idJES-IQWk/s400/alimentos2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="231" src="http://2.bp.blogspot.com/_8c6kxbMw5h4/SSW-ci_ApMI/AAAAAAAABCM/6idJES-IQWk/s320/alimentos2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><span style="font-size: xx-small;">Imagen:&nbsp;<a href="http://recursosdigitalesinfantil.blogspot.com.es/2009/06/los-alimentos.html">http://recursosdigitalesinfantil.blogspot.com.es/2009/06/los-alimentos.html</a></span></div><br />Ya acabé de programar las dos semanas para trabajar la unidad didáctica 4, la de los alimentos.<br /><br />Aquí os dejo el enlace para que la ojeéis a ver si inshallah podéis aprovecharlo.<br /><embed allowfullscreen="true" allowscriptaccess="always" height="432" src="https://app.box.com/embed/cpqg7nb0boldjxa.swf" type="application/x-shockwave-flash" width="500" wmode="opaque"></embed> <br /><br /><br /><br /><span style="background-color: #4c1130; color: #93c47d;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span><br /><div><span style="background-color: #4c1130; color: #93c47d;"><br /></span></div><br /></div></div>

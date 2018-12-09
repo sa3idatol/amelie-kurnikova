@@ -1,0 +1,9 @@
++++
+title = "Video de las letras arabes..."
+date = 2012-03-31T00:35:00Z
+updated = 2013-08-10T00:41:12Z
+tags = ["arabe5", "arabe2", "arabe 3", "arabe4", "intercomunicación"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #cfe2f3; color: #0c343d;"><b>Bismillah ar Rahman ar Rahim</b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #d0e0e3; color: #0c343d;"><b>Assalamu wa aleikum wa rahamatullah wa barakatuh</b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #d0e0e3; color: #0c343d;"><b><br /></b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #d0e0e3; color: #0c343d;"><b><br /></b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #4c1130;"><object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://2.gvt0.com/vi/XEQyxeqfxkI/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/XEQyxeqfxkI&fs=1&source=uds" />  <param name="bgcolor" value="#FFFFFF" />  <embed width="320" height="266"  src="http://www.youtube.com/v/XEQyxeqfxkI&fs=1&source=uds" type="application/x-shockwave-flash"></embed></object></span></div><br /><br /><div style="text-align: center;">Hay distintos videos para la pronunciar y escribir en arabe, pero este me parece muy bueno!<br /><br /><span style="background-color: #d9ead3; color: #274e13;"><b>Assalamu wa aleikum wa rahamatullah wa barakatuh</b></span></div></div>

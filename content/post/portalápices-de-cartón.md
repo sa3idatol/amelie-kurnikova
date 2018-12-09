@@ -1,0 +1,9 @@
++++
+title = "Portalápices de cartón"
+date = 2014-10-10T22:32:00Z
+updated = 2014-11-15T10:52:23Z
+tags = ["P5", "material casero", "otoño", "manu5", "manu4", "Organización del aula", "P4"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #93c47d;"><span style="color: #660000;">Bismillah ar Rahman ar Rahim<br />Assalamu aleikum wa rahamatullahi wa barakatuh</span></span></div><br /><div style="text-align: justify;">Esta semana estamos inmersos en el tema del otoño y para terminar la semana hemos hecho esta sencilla manualidad,&nbsp; además de otras dos que os mostraré más adelante in sha'a Allah. <br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh4.ggpht.com/-AlU7cN3I4sA/VDhCBFfLm0I/AAAAAAAAG54/qr7mHG5A0JU/s1600/2014-10-10-22-05-40_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh4.ggpht.com/-AlU7cN3I4sA/VDhCBFfLm0I/AAAAAAAAG54/qr7mHG5A0JU/s640/2014-10-10-22-05-40_deco.jpg" height="200" width="150" /></a> </div><br /><a name='more'></a><br /><br /><div style="text-align: justify;">En breve también quiero enseñaros,&nbsp; ya cuando lo hayamos finalizado,&nbsp; el cuaderno sobre el otoño que recopila todas las actividades de esta unidad didáctica. </div><br /><div style="text-align: justify;">Por el momento os dejo el material y proceso de elaboración de esta manualidad.   </div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh5.ggpht.com/-xhlWg-5M_wU/VDhCRF4IbzI/AAAAAAAAG6A/ydkVTqfHd7s/s1600/2014-10-10-21-57-35_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh5.ggpht.com/-xhlWg-5M_wU/VDhCRF4IbzI/AAAAAAAAG6A/ydkVTqfHd7s/s640/2014-10-10-21-57-35_deco.jpg" height="320" width="240" /></a> </div></div>

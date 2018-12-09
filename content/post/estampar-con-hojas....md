@@ -1,0 +1,9 @@
++++
+title = "Estampar con hojas..."
+date = 2012-10-27T21:45:00Z
+updated = 2013-08-14T16:34:58Z
+tags = ["otoño", "P2", "manu2", "P3", "manu3"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #990000; color: #f1c232;">Bismillah ar Rahman ar Rahim</span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #990000; color: #f1c232;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Esta actividad, de pintar hojas y luego estamparlas fue una de las primeras que hicimos con Yumna, cuando ya&nbsp;<a href="http://almadrassadenoura.blogspot.com/2011/11/lo-que-hemos-venido-haciendo-este-mes.html">empecemos con el homeschooling</a>.&nbsp;</div><div class="separator" style="clear: both; text-align: justify;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Esta vez lo han echo los dos, con las hojas que hemos ido recogiendo...</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-d3YtCqvl6VE/UguVCp1XfBI/AAAAAAAAFcY/sIlJf4rjhzM/s1600/cats.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-d3YtCqvl6VE/UguVCp1XfBI/AAAAAAAAFcY/sIlJf4rjhzM/s1600/cats.jpg" height="400" width="400" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><br /><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #d0e0e3; color: #45818e;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div></div>

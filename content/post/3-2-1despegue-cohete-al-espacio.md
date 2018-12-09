@@ -1,0 +1,11 @@
++++
+title = "3, 2, 1…¡despegue! ¡Cohete al espacio!"
+date = 2014-06-20T19:32:00Z
+updated = 2014-11-15T10:55:44Z
+tags = ["P3", "universo", "manu4", "Unidades didacticas", "manu3", "P4"]
+blogimport = true 
+author = "Ummu Yumna"
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="color: #990000;"><span style="background-color: #ffd966;">Bismillah ar Rahman ar Rahim</span></span></div><div style="text-align: center;"><span style="color: #990000;"><span style="background-color: #ffd966;">Assalamu aleikum wa rahamatullahi wa barakatuh</span></span></div><br /><div style="text-align: justify;">Esta mañana hemos finalizado la unidad didáctica del universo con las dos manualidades que os muestro en esta y la próxima entrada in sha'a Allah.</div><div style="text-align: justify;"><br /></div><div style="text-align: justify;">Se han divertido con esta bonita manualidad que han podido hacer muy rápidamente porque esta vez lo tenian casi todo preparado.   </div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh6.ggpht.com/-5F0x0X2mzqM/U6RwIFnV8NI/AAAAAAAAGy4/6rxkYw2yca4/s1600/2014-06-20-17-19-35_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh6.ggpht.com/-5F0x0X2mzqM/U6RwIFnV8NI/AAAAAAAAGy4/6rxkYw2yca4/s640/2014-06-20-17-19-35_deco.jpg" height="239" width="320" /></a> </div><div class="separator" style="clear: both; text-align: center;"></div><a name='more'></a><br /><br /><div style="text-align: justify;">Y para que veáis el material y el proceso,  os dejo estas fotos:   </div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://lh5.ggpht.com/-q_u3p6J9FjQ/U6SGAtoiFsI/AAAAAAAAGzI/w8DDI1XIaEM/s1600/2014-06-20-20-56-58_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh5.ggpht.com/-q_u3p6J9FjQ/U6SGAtoiFsI/AAAAAAAAGzI/w8DDI1XIaEM/s640/2014-06-20-20-56-58_deco.jpg" height="320" width="240" /></a> </div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://mrskarensclass.blogspot.com.es/2012/01/lets-fly-to-moon-or-jupiter.html" target="_blank">Idea&nbsp;original</a></div></div>

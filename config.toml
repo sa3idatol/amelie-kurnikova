@@ -1,0 +1,57 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Sonia"
+  subtitle    = "Teaching Tools"
+
+  
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "SoniaTools"
+  fbName = "soniateachingtools"
+  IntagramName = "sonia_teaching_tools"
+  pinterestName = "soniateachingtools"
+
+
+  logo = "sonialogo.svg"
+
+
+  author = "Sonia Teaching Tools"
+  authorAvatar = "sonialogo.svg"
+  authorLocation = "Agadir, Marruecos"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Pagina no Encontrada"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 90
+
+[[menu.main]]
+  name = "Quien Soy"
+  url = "/about/"
+  weight = 100
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 100
+
+

@@ -1,0 +1,9 @@
++++
+title = "La casa, sus habitaciones y objetos..."
+date = 2012-10-01T00:20:00Z
+updated = 2013-08-13T00:37:21Z
+tags = ["P2", "natusocial3", "P3", "natusocial2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #4c1130; color: #ffe599;">Bismillah ar Rahman ar Rahim</span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #4c1130; color: #ffe599;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Al trabajar con el diccionario de imágenes, para conocer y aprender los tipos de casa, las habitaciones de la casa, y lo que cada una de ellas contiene, hicimos un sencillo juego de clasificación:</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-xBdvcHiS728/UgljiJSXpzI/AAAAAAAAFX8/JXhQEChusBU/s1600/cats.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="http://1.bp.blogspot.com/-xBdvcHiS728/UgljiJSXpzI/AAAAAAAAFX8/JXhQEChusBU/s400/cats.jpg" width="249" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div style="text-align: justify;">Este material no puedo compartirlo porqué las imágenes que he usado no están todas libre de derechos.</div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #4c1130; color: #ffe599;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div><span style="background-color: #4c1130; color: #ffe599;"><br /></span></div></div>

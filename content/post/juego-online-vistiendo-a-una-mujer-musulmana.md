@@ -1,0 +1,9 @@
++++
+title = "Juego online: vistiendo a una mujer musulmana"
+date = 2012-12-18T23:17:00Z
+updated = 2012-12-18T23:19:24Z
+tags = ["JUEGO", "uno3", "uno2", "informática"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #20124d;"><span style="color: #ffe599;">Bismillah ar Rahman ar Rahim</span></span></div><div style="text-align: center;"><span style="background-color: #20124d;"><span style="color: #ffe599;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></span></div><br />Mi querida hermana Sa'ida ha encontrado este juego en la net, espero que lo disfruten vuestras pequeñas (pueden jugar aquí mismo, moviendo con el ratón las prendas de vestir inshallah):<br /><br /><br /></div><div style="text-align: center;"><object align="" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" height="480" id="Yourfilename" width="640">    <param NAME=movie VALUE="http://gakish.com/new/games/hijab-dressup.swf"> <param NAME=quality VALUE=high> <param NAME=bgcolor VALUE=#333399> <embed src="http://gakish.com/new/games/hijab-dressup.swf" quality=high bgcolor=#333399 WIDTH="640" HEIGHT="480" NAME="Yourfilename" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED> </OBJECT>&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;"><span style="font-size: x-small;">&nbsp;http://gakish.com/new/games/hijab-dressup.swf</span></div><br /><div style="text-align: center;">&nbsp;<span style="background-color: #20124d;"><span style="color: #ffe599;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></span></div></div>

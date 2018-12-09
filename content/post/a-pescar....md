@@ -1,0 +1,9 @@
++++
+title = "¡¡¡¡A pescar!!!!..."
+date = 2012-01-20T02:27:00Z
+updated = 2013-08-10T14:28:47Z
+tags = ["motricidad2", "P2", "natusocial3", "uno3", "P3", "uno2", "natusocial2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #8e7cc3; color: #f1c232;">Bismillah ar Rahman ar Rahim</span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #8e7cc3; color: #f1c232;">assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"></div><br />Otro material que aun no he echo pero inshallah nos divertirá muchos ratos...<br /><br /><div style="text-align: center;"><span style="font-size: large;">¡¡¡¡A pescar!!!!</span></div><br /><a href="http://sstorywindow.blogspot.com/"></a><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/_5kmYY5SMWjY/TEkGwoqh5BI/AAAAAAAADYQ/fuhEJw0Zq3c/s320/Fishing+Set+8.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/_5kmYY5SMWjY/TEkGwoqh5BI/AAAAAAAADYQ/fuhEJw0Zq3c/s320/Fishing+Set+8.JPG" /></a></div><br />Y para realizarlo en casita, lo tenemos muy bien explicado <a href="http://unsolicitedadvice-n-such.blogspot.com/2011/06/easy-felt-fish.html">aqui</a><br />Seria interesante que lo preparemos delante y con ayuda de los peques, pues verán como funcionan los imanes y despertaran interés por crear sus propios juguetes.<br /><br /><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #8e7cc3; color: #f1c232;">assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"></div><br class="Apple-interchange-newline" /></div>

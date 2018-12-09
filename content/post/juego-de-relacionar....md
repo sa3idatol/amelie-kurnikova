@@ -1,0 +1,9 @@
++++
+title = "Juego de relacionar..."
+date = 2012-06-08T12:00:00Z
+updated = 2013-08-11T22:51:01Z
+tags = ["JUEGO"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #cccccc; color: #444444;">Bismillah ar Rahman ar Rahim</span><br /><div><span style="background-color: #cccccc; color: #444444;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><span style="color: #444444;">Aquí os muestro un juego de relacionar con un sensor que dice si es correcta o falsa la unión...Me parece muy interesante porqué aprende divirtiéndose. Vienen varias fichas, unas de relacionar tramas (telas) otra de sombras, de objeto con persona, de contrarios o de parejas...Recomiendo que lo&nbsp;utilicen si tienen uno a mano...a nosotros nos lo han regalado porqué ya dejaron de jugar...Subhanallah hay tantos juguetes por aquí que no hace falta comprar,&nbsp;sino solamente&nbsp;cuidar reutilizar y compartir.</span><br /><span style="color: #444444;"><br /></span></div><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-04qtpIGUdsI/Ugf5JJ5BI_I/AAAAAAAAFRY/gvsqIMeiveY/s1600/cats.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-04qtpIGUdsI/Ugf5JJ5BI_I/AAAAAAAAFRY/gvsqIMeiveY/s1600/cats.jpg" height="400" width="400" /></a></div><span style="color: #444444;"><br /></span><div class="separator" style="clear: both; text-align: center;"></div><span style="background-color: #cccccc; color: #444444;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div style="text-align: center;"><span style="color: #444444;"><br /></span></div></div>

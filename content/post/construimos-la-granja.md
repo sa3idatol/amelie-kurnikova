@@ -1,0 +1,9 @@
++++
+title = "Construimos la granja!"
+date = 2012-04-30T16:02:00Z
+updated = 2013-08-11T01:38:44Z
+tags = ["P2", "natusocial3", "manu2", "Unidades didacticas", "natusocial2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><br /><div style="text-align: center;"><span style="background-color: #ffd966; color: #38761d;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #ffd966;"><span style="color: #38761d;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></span></div><br /><div style="text-align: justify;">Continuando con el tema de la granja, hemos fabricado la nuestra. En un par de días, hemos pintado, recortado y pegado para prepararlo todo....</div>Podéis encontrar los elementos imprimibles en&nbsp;<a href="http://chezlorry.ca/Themes/LaFerme/Bricolage.htm">http://chezlorry.ca/Themes/LaFerme/Bricolage.htm</a><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-74OFfffv-yM/UgbO6F_WepI/AAAAAAAAFOE/iIfhvYU8C4c/s1600/DSC02794.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-74OFfffv-yM/UgbO6F_WepI/AAAAAAAAFOE/iIfhvYU8C4c/s1600/DSC02794.JPG" /></a></div><br /><br /><div class="separator" style="clear: both; text-align: center;"></div><div style="text-align: center;"><span style="background-color: #ffd966;"><span style="color: #38761d;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></span><br /><div><span style="background-color: #ffd966;"><span style="color: #38761d;"><br /></span></span></div></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><br /></div>

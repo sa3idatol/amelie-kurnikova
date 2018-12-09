@@ -1,0 +1,9 @@
++++
+title = "Pizarra en el ordenador"
+date = 2013-06-10T18:16:00Z
+updated = 2013-08-25T22:07:15Z
+tags = ["TIC", "Nuevas tecnologías", "informática"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #274e13; color: #e69138;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #274e13; color: #e69138;">Assalamu aleikum wa rahamatullahi wa barakatuh</span></div><br />Hoy nos hemos divertido mucho con el hallazgo que he hecho en el <a href="https://chrome.google.com/webstore/category/app/8-education?utm_source=chrome-ntp-icon">Chrome store</a>:<br /><br /><div style="text-align: justify;">Es una aplicación que se instala en el inicio de Chrome (por si como yo lo estáis descubriendo ahora). En esta <b><a href="https://chrome.google.com/webstore/detail/blackboard/doakoidnlldglphcgpdbbgcnamlppemh?utm_source=chrome-ntp-icon">pizarra</a> </b>se puede dibujar y escribir y borrar de un clic todo lo hecho...me ha parecido muy práctico y los peques se han interesado mucho...haciendo ejercicios de modo más ameno.</div><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-SS5uMACZ4B4/UgvRrWfqAnI/AAAAAAAAFfY/yMGtsuGO8YA/s1600/Pizarra+app.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://3.bp.blogspot.com/-SS5uMACZ4B4/UgvRrWfqAnI/AAAAAAAAFfY/yMGtsuGO8YA/s1600/Pizarra+app.jpg" width="400" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"></div><br /><div style="text-align: center;"><span style="background-color: #274e13; color: #e69138;">Assalamu aleikum wa rahamatullahi wa barakatuh</span></div><div><span style="background-color: #274e13; color: #e69138;"><br /></span></div><br /></div>

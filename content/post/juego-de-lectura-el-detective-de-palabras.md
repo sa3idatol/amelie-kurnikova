@@ -1,0 +1,9 @@
++++
+title = "Juego de lectura: El detective de palabras"
+date = 2014-06-12T11:59:00Z
+updated = 2014-06-12T19:29:22Z
+tags = ["JUEGO", "le4", "le3", "P3", "lectoescritura", "P4"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #93c47d;"><span style="color: #7f6000;">Bismillah ar Rahman ar Rahim<br />Assalamu aleikum wa rahamatullahi wa barakatuh</span></span></div><div style="text-align: center;"><br /></div>Para hacer más amena la actividad de leer,&nbsp; he inventado este juego que Yumna está disfrutando estos días. <br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Flh6.ggpht.com%2F-BlW4hURmwQk%2FU5l56HQ4ytI%2FAAAAAAAAGv8%2Fq27rIZ5RLoM%2Fs640%2F2014-06-12-11-21-06_deco.jpg&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://lh6.ggpht.com/-BlW4hURmwQk/U5l56HQ4ytI/AAAAAAAAGv8/q27rIZ5RLoM/s640/2014-06-12-11-21-06_deco.jpg" height="320" width="240" /></a></div>Para hacerlo necesitáis simplemente trozos de papel de tamaño similar,&nbsp; rotuladores rojo y azul (para vocales y consonantes respectivamente)&nbsp; y una lupa.&nbsp; En los papelitos deberéis escribir cada una de las palabras dos veces:&nbsp; una en mayúsculas y otra en minúsculas. La palabra escrita en minúsculas debe escribirse más pequeñita para que el uso de la lupa tenga sentido en el juego.<br /><br />Ya preparado el material,&nbsp; se puede poner en marcha la actividad. El pequeño debe coger la palabra en minúsculas y una vez descubierta la palabra que hay escrita hay que corresponderla con la misma palabra en mayúsculas. <br /><div class="separator" style="clear: both; text-align: center;"> </div></div>

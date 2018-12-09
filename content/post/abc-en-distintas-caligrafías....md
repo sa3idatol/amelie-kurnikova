@@ -1,0 +1,9 @@
++++
+title = "Abc en distintas caligrafías..."
+date = 2012-06-07T01:53:00Z
+updated = 2014-01-04T21:13:10Z
+tags = ["P2", "le3", "P3", "le2", "P4", "intercomunicación"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #274e13; color: lime;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #274e13; color: lime;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><br /><div style="text-align: justify;">A Yumna le enseño las letras mayúsculas y minúsculas al mismo tiempo. He diseñado estas fichas de letras con distintos tipos de caligrafía para que se acostumbre a verlas y así no limitarla a las básicas...kheir inshallah!</div><div style="text-align: justify;">Se puede usar para reforzar en todas las actividades que hagamos para aprender o trabajar las letras del abecedario. Aquí era la primera vez que lo utilizábamos. Seleccioné las letras que conoce y ella me iba diciendo cuáles eran.</div><center><embed allowfullscreen="true" allowscriptaccess="always" height="400" src="https://app.box.com/embed/67dh7demye6xoxu.swf" type="application/x-shockwave-flash" width="466" wmode="opaque"></embed></center> <br /><div class="separator" style="clear: both; text-align: center;"></div><br /><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;">Para descargar en 4 shared&nbsp;<a href="http://www.4shared.com/office/A4XJmVoD/Abc_caligrfico.html">CLICA AQUÍ</a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #274e13; color: lime;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><br /></div>

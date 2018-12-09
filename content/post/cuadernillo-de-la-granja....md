@@ -1,0 +1,9 @@
++++
+title = "Cuadernillo de la granja..."
+date = 2012-04-16T14:51:00Z
+updated = 2013-08-10T20:21:25Z
+tags = ["P2", "natusocial3", "P3", "Unidades didacticas", "natusocial2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><br /><div style="text-align: center;"><span style="background-color: #660000; color: #e06666;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #660000; color: #e06666;">Assalamu wa aleikum wa rahamatullah&nbsp;</span></div><div style="text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><div style="text-align: justify;">Hemos empezado a tratar más profundamente el tema de la granja, los animales, los alimentos, los campos, los trabajadores... Para ello usamos como refuerzo&nbsp;<a href="http://sd-1.archive-host.com/membres/up/14116664813033125/FERMETPS-PS.pdf">cuaderno </a>que la hermana del blog <a href="http://familyandco.over-blog.com/article-les-animaux-de-la-ferme-101417572.html">familyandco</a><span style="text-align: left;">&nbsp;</span>facilita, junto a otros muchos enlaces que tratan el tema, para distintas edades.<br /><br /></div><div class="separator" style="clear: both; text-align: center;"></div><div style="text-align: justify;"><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-_fgNiiQzVSs/UgaD59NUTZI/AAAAAAAAFMc/V9zEpfD5vMA/s1600/DSC02729.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-_fgNiiQzVSs/UgaD59NUTZI/AAAAAAAAFMc/V9zEpfD5vMA/s1600/DSC02729.jpg" /></a></div><div style="text-align: center;"><br /></div></div><div style="text-align: center;"><span style="background-color: #783f04; color: #ffe599;">Assalamu wa aleiki wa rahamatullah wa barakatuh</span></div><div style="text-align: center;"><br /></div><div style="text-align: center;"><br /></div></div>

@@ -1,0 +1,9 @@
++++
+title = "Contando piedras"
+date = 2011-12-15T02:27:00Z
+updated = 2013-08-05T23:41:47Z
+tags = ["P2", "P3", "mat3", "mat2"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #7f6000; color: #f6b26b;">Bismillah ar Rahman ar Rahim</span></div><div class="separator" style="clear: both; text-align: center;"><span style="background-color: #7f6000; color: #f6b26b;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: justify;">Aquí una nueva versión de como usar estas fichas de los números, que nos son útiles para ver símbolo y cantidad al mismo tiempo. He comprado estas piedras que habréis visto mucho, y son de fácil manejo y ademas bonitas. Pues ya veis, aprendiendo a contar contando!</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-UVZSklyOeEo/Uf_nYdHwPAI/AAAAAAAAE2I/DC_8PQwtoAk/s1600/dic4+015.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-UVZSklyOeEo/Uf_nYdHwPAI/AAAAAAAAE2I/DC_8PQwtoAk/s320/dic4+015.JPG" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><div style="text-align: justify;">Lo hizo hasta el diez. Hace unos días le hice otros <a href="http://almadrassadenoura.blogspot.com/2012/01/numerosde-purpurina-en-placas-en.html">números con purpurina</a> que le han encantado y hemos hecho la misma actividad.&nbsp;</div><br />Assalamu wa aleikum wa rahamatullah wa barakatuh</div>

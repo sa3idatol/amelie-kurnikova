@@ -1,0 +1,9 @@
++++
+title = "Programación y Unidad didáctica 1: Mi familia y mi casa "
+date = 2012-09-01T01:56:00Z
+updated = 2013-08-12T23:57:48Z
+tags = ["P2", "P3", "Unidades didacticas", "Programaciones de aula"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #0c343d; color: orange;">Bismillah ar Rahman ar Rahim</span></div><div style="text-align: center;"><span style="background-color: #0c343d; color: orange;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div><div style="text-align: center;"><br /></div><br /><div style="text-align: justify;">Después de unos días de descanso al terminar Ramadan, hemos cargado pilas y nos estamos preparando para el inicio del curso 2012-2013.&nbsp;Empezaremos el día 10 de septiembre inshallah.</div><br /><div style="text-align: center;">Alhambdoulillah terminé de programar las dos primeras semanas de escuela (aunque es posible algún cambio de actividad). &nbsp;Como es bastante largo, adjunto el link dónde se encuentra la carpeta con los documentos de&nbsp;<a href="https://www.box.com/files#/files/0/f/380240057/La_familia">la Unidad didáctica y ejercicios para descargar</a>&nbsp; que podréis ver y/o descargar. Espero que os sea de ayuda. Inshallah iré poniendo todas las programaciones didácticas que vayamos trabajando en casa.<br /><br />Aquí os dejo una vista previa de uno de los documentos:<br /><center><embed allowfullscreen="true" allowscriptaccess="always" height="434" src="https://app.box.com/embed/1e34c8e04k67ofu.swf" type="application/x-shockwave-flash" width="500" wmode="opaque"></embed></center><br /><br /></div><div style="text-align: center;"><span style="background-color: #0c343d; color: orange; text-align: center;"><br /></span></div><div style="text-align: center;"><span style="background-color: #0c343d; color: orange; text-align: center;">Assalamu wa aleikum wa rahamatullah wa barakatuh</span></div></div>

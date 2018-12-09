@@ -1,0 +1,9 @@
++++
+title = "Letras de plastilina"
+date = 2014-09-20T12:46:00Z
+updated = 2014-10-03T16:55:40Z
+tags = ["P5", "le4", "le3", "P3", "lectoescritura", "le5", "le2", "P4"]
+
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: center;"><span style="background-color: #0b5394;"><span style="color: red;">Bismillah ar Rahman ar Rahim</span></span><br /><span style="background-color: #0b5394;"><span style="color: red;">Assalamu aleikum wa rahamatullahi wa barakatuh</span></span></div><br /><div style="text-align: justify;">Mi intención es in sha'a Allah hacer una recopilación con las variantes que hemos ido trabajando en la madrassa con las letras de lija o letras rugosas (sandletters) para que las que las queráis hacer podáis tener ideas iniciales y ya luego cada una podéis desarrollar nuevas ideas. </div><div style="text-align: justify;">Por el momento os dejo con esta actividad que han hecho los peques esta semana y no os estrañaréis si os digo que se han divertido haciéndola y pienso que han logrado memorizar un poco más la grafia de las letras con las que estaban trabajando. </div><div style="text-align: justify;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://lh6.ggpht.com/-Mq0ETh3KiaA/VB1bAWOji0I/AAAAAAAAG3o/m3LjPpdi3BY/s1600/2014-09-18-20-44-47_deco.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"> <img border="0" src="http://lh6.ggpht.com/-Mq0ETh3KiaA/VB1bAWOji0I/AAAAAAAAG3o/m3LjPpdi3BY/s640/2014-09-18-20-44-47_deco.jpg" height="182" width="320" /></a> </div><br /><div style="text-align: justify;">Es simple y llano.&nbsp; Con las letras rugosas y plastilina comprada o casera ya tenéis suficientente para realizarla. </div><br /><div style="text-align: justify;">Con las letras como modelo,&nbsp; deben modelar la plastilina formando la misma letra.&nbsp; ¡Ya está! </div></div>
