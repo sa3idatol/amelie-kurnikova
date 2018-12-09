@@ -1,0 +1,36 @@
+{{ partial "head" . }}
+
+<body class="home-template"><div class="site-wrapper">
+
+{{ partial "header" . }}
+
+
+<main id="site-main" class="site-main outer" role="main">
+
+  <div class="inner">
+  <div class="post-feed bottom-padding-shop">
+ 	  <section class="post-card post">
+          <div class="row">
+		     <h2 class="center"> SONIA TEACHING TOOLS SHOP</h2>
+	     {{ $products := getJSON "/data/products.json" }}
+
+
+        {{ range $products }}
+            {{ partial "product.html" . }}
+        {{ end }}
+		
+		    </div>
+        </section>
+</div>
+    <div class="post-feed">
+
+
+      {{ partial "post-list" . }}
+
+    </div>
+
+  </div>
+</main>
+
+{{ partial "footer" . }}
+</div>{{ partial "js" . }}</body></html>
